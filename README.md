@@ -2,7 +2,7 @@
 
 Proyek ini bertujuan untuk menganalisis sentimen dari ulasan pengguna terhadap aplikasi **Gojek** menggunakan pendekatan *machine learning* dan *deep learning*. Analisis ini membantu memahami persepsi publik terhadap layanan Gojek, yang berguna untuk pengambilan keputusan berbasis data.
 
-Kami menggunakan tiga pendekatan berbeda untuk membandingkan performa model berdasarkan akurasi dan F1-Score. Dataset terdiri dari lebih dari 10.000 data ulasan pengguna yang telah melalui proses praproses dan pelabelan.
+Saya menggunakan tiga pendekatan berbeda untuk membandingkan performa model berdasarkan akurasi dan F1-Score. Dataset terdiri dari lebih dari 22.000 data ulasan pengguna yang telah melalui proses praproses dan pelabelan.
 
 ## 📊 Perbandingan Model
 
